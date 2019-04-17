@@ -1,0 +1,50 @@
+Pyforest actions
+================
+
+Long description about actions goes here....
+
+
+Common structure
+----------------
+
+.. automodule:: pyforest.actions
+   :members:
+
+
+Spread actions
+--------------
+
+What spread actions do in the pyforest framework? This should be uncovered!
+
+.. automodule:: pyforest.actions.spreads
+   :members:
+
+   
+   
+Allometry actions
+-----------------
+
+Some common words goes here... 
+
+.. automodule:: pyforest.actions.allometry
+   :members:
+
+
+Exclusion actions
+-----------------
+
+Some common words on exclusion actions goes here... 
+
+
+.. automodule:: pyforest.actions.exclusions
+   :members:
+   
+   
+Seed actions
+------------
+
+What seed actions do? Uncover in a few common words.
+   
+   
+.. automodule:: pyforest.actions.seeds
+   :members:

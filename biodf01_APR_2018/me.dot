@@ -1,0 +1,24 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="Сp_W <= 0.5\ngini = 0.545\nsamples = 589\nvalue = [81, 21, 382, 21, 64, 20]\nclass = Df"] ;
+1 [label="Dp_O <= 0.5\ngini = 0.1798\nsamples = 423\nvalue = [0, 21, 382, 0, 0, 20]\nclass = Df"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Ef_0 <= 0.5\ngini = 0.0946\nsamples = 402\nvalue = [0, 0, 382, 0, 0, 20]\nclass = Df"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 20\nvalue = [0, 0, 0, 0, 0, 20]\nclass = Dp"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 382\nvalue = [0, 0, 382, 0, 0, 0]\nclass = Df"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 21\nvalue = [0, 21, 0, 0, 0, 0]\nclass = Ddvfl"] ;
+1 -> 5 ;
+6 [label="Dvl_O <= 0.5\ngini = 0.5973\nsamples = 166\nvalue = [81, 0, 0, 21, 64, 0]\nclass = Dd"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="Dnvs_ORe <= 0.5\ngini = 0.372\nsamples = 85\nvalue = [0, 0, 0, 21, 64, 0]\nclass = Dm"] ;
+6 -> 7 ;
+8 [label="gini = 0.0\nsamples = 64\nvalue = [0, 0, 0, 0, 64, 0]\nclass = Dm"] ;
+7 -> 8 ;
+9 [label="gini = 0.0\nsamples = 21\nvalue = [0, 0, 0, 21, 0, 0]\nclass = Dg"] ;
+7 -> 9 ;
+10 [label="gini = 0.0\nsamples = 81\nvalue = [81, 0, 0, 0, 0, 0]\nclass = Dd"] ;
+6 -> 10 ;
+}
