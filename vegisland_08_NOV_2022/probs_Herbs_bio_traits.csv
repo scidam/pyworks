@@ -1,0 +1,991 @@
+,trait_name,island,tot_sp,expected,observed,zscore,sd,p-value
+0,Taproot,Atlasova,200.0,40.33,57.0,2.68,6.216,0.0037
+1,Taproot,Shumshu,346.0,69.78,74.0,0.53,8.045,0.2997
+2,Taproot,Paramushir,406.0,81.88,89.0,0.82,8.655,0.2052
+3,Taproot,Antciferova,21.0,4.23,9.0,2.32,2.053,0.0102
+4,Taproot,Makanrushi,107.0,21.58,32.0,2.27,4.593,0.0116
+5,Taproot,Onekotan,250.0,50.42,54.0,0.52,6.912,0.302
+6,Taproot,Kharimkotan,137.0,27.63,34.0,1.23,5.18,0.1093
+7,Taproot,Chirinkotan,34.0,6.86,7.0,0.05,2.609,0.4781
+8,Taproot,Ekarma,102.0,20.57,31.0,2.32,4.487,0.01
+9,Taproot,Shiashkotan,175.0,35.29,42.0,1.15,5.831,0.1249
+10,Taproot,Raykoke,54.0,10.89,18.0,2.17,3.281,0.0151
+11,Taproot,Matua,171.0,34.48,47.0,2.17,5.766,0.015
+12,Taproot,Rashua,203.0,40.94,38.0,0.47,6.261,0.3195
+13,Taproot,Ushishir,119.0,24.0,25.0,0.21,4.837,0.4179
+14,Taproot,Ketoy,205.0,41.34,43.0,0.26,6.29,0.396
+15,Taproot,Simushir,246.0,49.61,56.0,0.93,6.859,0.1757
+16,Taproot,Broutona,22.0,4.44,10.0,2.65,2.101,0.0041
+17,Taproot,Chirpoy,105.0,21.17,27.0,1.28,4.551,0.1003
+18,Taproot,Brat Chirpoev,113.0,22.79,30.0,1.53,4.717,0.0631
+19,Taproot,Urup,378.0,76.23,87.0,1.29,8.378,0.0993
+20,Taproot,Iturup,583.0,117.57,122.0,0.44,10.159,0.3314
+21,Taproot,Kunashir,693.0,139.75,122.0,1.62,10.929,0.0522
+22,Taproot,Shikotan,508.0,102.44,110.0,0.79,9.567,0.2149
+23,Taproot,Polonskogo,103.0,20.77,22.0,0.27,4.508,0.3926
+24,Taproot,Zeleny,139.0,28.03,27.0,0.2,5.217,0.4217
+25,Taproot,Tanfileva,129.0,26.01,28.0,0.39,5.031,0.3466
+26,Taproot,Yuriy,161.0,32.47,32.0,0.08,5.601,0.4667
+27,Taproot,Demina,45.0,9.07,17.0,2.64,2.998,0.0041
+28,Taproot,Storozhevoy,10.0,2.02,3.0,0.69,1.419,0.2441
+29,Taproot,Anuchina,84.0,16.94,21.0,1.0,4.079,0.1598
+30,Fibrous root,Atlasova,200.0,62.16,53.0,1.2,7.625,0.1148
+31,Fibrous root,Shumshu,346.0,107.54,102.0,0.57,9.773,0.2854
+32,Fibrous root,Paramushir,406.0,126.19,129.0,0.27,10.471,0.3942
+33,Fibrous root,Antciferova,21.0,6.53,0.0,2.56,2.546,0.0052
+34,Fibrous root,Makanrushi,107.0,33.26,30.0,0.57,5.666,0.2827
+35,Fibrous root,Onekotan,250.0,77.7,77.0,0.08,8.451,0.4669
+36,Fibrous root,Kharimkotan,137.0,42.58,39.0,0.56,6.379,0.2873
+37,Fibrous root,Chirinkotan,34.0,10.57,9.0,0.48,3.233,0.3139
+38,Fibrous root,Ekarma,102.0,31.7,23.0,1.57,5.537,0.058
+39,Fibrous root,Shiashkotan,175.0,54.39,52.0,0.33,7.164,0.3692
+40,Fibrous root,Raykoke,54.0,16.78,10.0,1.67,4.061,0.0474
+41,Fibrous root,Matua,171.0,53.15,47.0,0.87,7.086,0.1928
+42,Fibrous root,Rashua,203.0,63.09,62.0,0.14,7.678,0.4433
+43,Fibrous root,Ushishir,119.0,36.99,36.0,0.17,5.964,0.4343
+44,Fibrous root,Ketoy,205.0,63.72,59.0,0.61,7.713,0.2705
+45,Fibrous root,Simushir,246.0,76.46,70.0,0.77,8.389,0.2207
+46,Fibrous root,Broutona,22.0,6.84,2.0,1.86,2.606,0.0317
+47,Fibrous root,Chirpoy,105.0,32.64,21.0,2.07,5.615,0.0191
+48,Fibrous root,Brat Chirpoev,113.0,35.12,28.0,1.22,5.817,0.1104
+49,Fibrous root,Urup,378.0,117.49,111.0,0.64,10.156,0.2615
+50,Fibrous root,Iturup,583.0,181.2,188.0,0.56,12.127,0.2876
+51,Fibrous root,Kunashir,693.0,215.39,221.0,0.43,12.929,0.3322
+52,Fibrous root,Shikotan,508.0,157.89,155.0,0.25,11.488,0.4006
+53,Fibrous root,Polonskogo,103.0,32.01,37.0,0.9,5.563,0.185
+54,Fibrous root,Zeleny,139.0,43.2,45.0,0.28,6.424,0.3898
+55,Fibrous root,Tanfileva,129.0,40.09,49.0,1.44,6.199,0.0754
+56,Fibrous root,Yuriy,161.0,50.04,59.0,1.3,6.887,0.0967
+57,Fibrous root,Demina,45.0,13.99,8.0,1.61,3.713,0.0534
+58,Fibrous root,Storozhevoy,10.0,3.11,2.0,0.63,1.76,0.2645
+59,Fibrous root,Anuchina,84.0,26.11,26.0,0.02,5.04,0.4914
+60,Tuberous adventitious roots,Atlasova,200.0,1.46,1.0,0.38,1.205,0.3528
+61,Tuberous adventitious roots,Shumshu,346.0,2.52,2.0,0.33,1.585,0.372
+62,Tuberous adventitious roots,Paramushir,406.0,2.95,2.0,0.56,1.716,0.2891
+63,Tuberous adventitious roots,Antciferova,21.0,0.15,0.0,0.39,0.391,0.3479
+64,Tuberous adventitious roots,Makanrushi,107.0,0.78,2.0,1.38,0.882,0.0831
+65,Tuberous adventitious roots,Onekotan,250.0,1.82,1.0,0.61,1.347,0.2716
+66,Tuberous adventitious roots,Kharimkotan,137.0,1.0,1.0,0.0,0.998,0.4988
+67,Tuberous adventitious roots,Chirinkotan,34.0,0.25,1.0,1.51,0.497,0.0651
+68,Tuberous adventitious roots,Ekarma,102.0,0.74,2.0,1.46,0.861,0.0721
+69,Tuberous adventitious roots,Shiashkotan,175.0,1.27,1.0,0.24,1.128,0.4042
+70,Tuberous adventitious roots,Raykoke,54.0,0.39,1.0,0.97,0.627,0.1664
+71,Tuberous adventitious roots,Matua,171.0,1.24,2.0,0.68,1.115,0.2489
+72,Tuberous adventitious roots,Rashua,203.0,1.48,2.0,0.43,1.214,0.3334
+73,Tuberous adventitious roots,Ushishir,119.0,0.87,2.0,1.22,0.93,0.1114
+74,Tuberous adventitious roots,Ketoy,205.0,1.49,2.0,0.42,1.22,0.3385
+75,Tuberous adventitious roots,Simushir,246.0,1.79,2.0,0.16,1.337,0.4376
+76,Tuberous adventitious roots,Broutona,22.0,0.16,0.0,0.4,0.4,0.3445
+77,Tuberous adventitious roots,Chirpoy,105.0,0.76,3.0,2.56,0.874,0.0052
+78,Tuberous adventitious roots,Brat Chirpoev,113.0,0.82,3.0,2.4,0.906,0.0081
+79,Tuberous adventitious roots,Urup,378.0,2.75,3.0,0.15,1.656,0.4401
+80,Tuberous adventitious roots,Iturup,583.0,4.24,7.0,1.34,2.055,0.0898
+81,Tuberous adventitious roots,Kunashir,693.0,5.04,7.0,0.87,2.24,0.1911
+82,Tuberous adventitious roots,Shikotan,508.0,3.7,5.0,0.68,1.919,0.2485
+83,Tuberous adventitious roots,Polonskogo,103.0,0.75,1.0,0.29,0.865,0.3861
+84,Tuberous adventitious roots,Zeleny,139.0,1.01,1.0,0.01,1.005,0.4955
+85,Tuberous adventitious roots,Tanfileva,129.0,0.94,1.0,0.06,0.968,0.4748
+86,Tuberous adventitious roots,Yuriy,161.0,1.17,1.0,0.16,1.082,0.437
+87,Tuberous adventitious roots,Demina,45.0,0.33,0.0,0.57,0.572,0.2836
+88,Tuberous adventitious roots,Storozhevoy,10.0,0.07,0.0,0.27,0.27,0.3937
+89,Tuberous adventitious roots,Anuchina,84.0,0.61,1.0,0.5,0.782,0.3094
+90,Thickened adventitious roots,Atlasova,200.0,3.53,4.0,0.25,1.877,0.402
+91,Thickened adventitious roots,Shumshu,346.0,6.11,5.0,0.45,2.465,0.3256
+92,Thickened adventitious roots,Paramushir,406.0,7.17,5.0,0.81,2.669,0.2076
+93,Thickened adventitious roots,Antciferova,21.0,0.37,1.0,1.03,0.609,0.1509
+94,Thickened adventitious roots,Makanrushi,107.0,1.89,2.0,0.08,1.374,0.4683
+95,Thickened adventitious roots,Onekotan,250.0,4.42,5.0,0.28,2.097,0.3907
+96,Thickened adventitious roots,Kharimkotan,137.0,2.42,3.0,0.37,1.554,0.3547
+97,Thickened adventitious roots,Chirinkotan,34.0,0.6,1.0,0.52,0.775,0.3032
+98,Thickened adventitious roots,Ekarma,102.0,1.8,1.0,0.6,1.341,0.2748
+99,Thickened adventitious roots,Shiashkotan,175.0,3.09,3.0,0.05,1.756,0.479
+100,Thickened adventitious roots,Raykoke,54.0,0.95,1.0,0.05,0.976,0.4813
+101,Thickened adventitious roots,Matua,171.0,3.02,4.0,0.56,1.736,0.2865
+102,Thickened adventitious roots,Rashua,203.0,3.59,4.0,0.22,1.89,0.4136
+103,Thickened adventitious roots,Ushishir,119.0,2.1,2.0,0.07,1.449,0.4717
+104,Thickened adventitious roots,Ketoy,205.0,3.62,4.0,0.2,1.9,0.4213
+105,Thickened adventitious roots,Simushir,246.0,4.35,5.0,0.31,2.08,0.3768
+106,Thickened adventitious roots,Broutona,22.0,0.39,1.0,0.98,0.623,0.1634
+107,Thickened adventitious roots,Chirpoy,105.0,1.86,3.0,0.84,1.361,0.2002
+108,Thickened adventitious roots,Brat Chirpoev,113.0,2.0,1.0,0.71,1.412,0.24
+109,Thickened adventitious roots,Urup,378.0,6.68,9.0,0.9,2.576,0.1838
+110,Thickened adventitious roots,Iturup,583.0,10.3,13.0,0.84,3.193,0.1991
+111,Thickened adventitious roots,Kunashir,693.0,12.25,14.0,0.5,3.477,0.307
+112,Thickened adventitious roots,Shikotan,508.0,8.98,12.0,1.01,2.982,0.1554
+113,Thickened adventitious roots,Polonskogo,103.0,1.82,8.0,4.58,1.348,0.0
+114,Thickened adventitious roots,Zeleny,139.0,2.46,8.0,3.54,1.565,0.0002
+115,Thickened adventitious roots,Tanfileva,129.0,2.28,8.0,3.79,1.508,0.0001
+116,Thickened adventitious roots,Yuriy,161.0,2.85,8.0,3.06,1.684,0.0011
+117,Thickened adventitious roots,Demina,45.0,0.8,3.0,2.47,0.891,0.0067
+118,Thickened adventitious roots,Storozhevoy,10.0,0.18,1.0,1.96,0.42,0.0251
+119,Thickened adventitious roots,Anuchina,84.0,1.48,7.0,4.53,1.217,0.0
+120,Tuberous,Atlasova,200.0,6.24,5.0,0.5,2.489,0.3096
+121,Tuberous,Shumshu,346.0,10.79,10.0,0.24,3.266,0.4044
+122,Tuberous,Paramushir,406.0,12.66,12.0,0.19,3.535,0.4258
+123,Tuberous,Antciferova,21.0,0.65,0.0,0.81,0.809,0.2091
+124,Tuberous,Makanrushi,107.0,3.34,2.0,0.73,1.824,0.2318
+125,Tuberous,Onekotan,250.0,7.8,5.0,1.01,2.781,0.1573
+126,Tuberous,Kharimkotan,137.0,4.27,6.0,0.84,2.062,0.2011
+127,Tuberous,Chirinkotan,34.0,1.06,0.0,1.03,1.029,0.1514
+128,Tuberous,Ekarma,102.0,3.18,5.0,1.02,1.781,0.1535
+129,Tuberous,Shiashkotan,175.0,5.46,7.0,0.66,2.329,0.2539
+130,Tuberous,Raykoke,54.0,1.68,1.0,0.53,1.297,0.2989
+131,Tuberous,Matua,171.0,5.33,6.0,0.29,2.303,0.386
+132,Tuberous,Rashua,203.0,6.33,9.0,1.06,2.508,0.1436
+133,Tuberous,Ushishir,119.0,3.71,7.0,1.71,1.923,0.0436
+134,Tuberous,Ketoy,205.0,6.39,9.0,1.03,2.52,0.1504
+135,Tuberous,Simushir,246.0,7.67,10.0,0.84,2.759,0.1993
+136,Tuberous,Broutona,22.0,0.69,0.0,0.83,0.828,0.2037
+137,Tuberous,Chirpoy,105.0,3.27,9.0,3.17,1.806,0.0008
+138,Tuberous,Brat Chirpoev,113.0,3.52,7.0,1.86,1.874,0.0318
+139,Tuberous,Urup,378.0,11.79,17.0,1.53,3.412,0.0633
+140,Tuberous,Iturup,583.0,18.18,20.0,0.43,4.223,0.3333
+141,Tuberous,Kunashir,693.0,21.61,23.0,0.3,4.596,0.3813
+142,Tuberous,Shikotan,508.0,15.84,18.0,0.55,3.947,0.2923
+143,Tuberous,Polonskogo,103.0,3.21,1.0,1.24,1.789,0.1082
+144,Tuberous,Zeleny,139.0,4.33,3.0,0.64,2.077,0.2603
+145,Tuberous,Tanfileva,129.0,4.02,4.0,0.01,2.002,0.4954
+146,Tuberous,Yuriy,161.0,5.02,10.0,2.23,2.235,0.0129
+147,Tuberous,Demina,45.0,1.4,1.0,0.34,1.184,0.3667
+148,Tuberous,Storozhevoy,10.0,0.31,1.0,1.23,0.558,0.1089
+149,Tuberous,Anuchina,84.0,2.62,2.0,0.38,1.616,0.3507
+150,Multi-headed caudex,Atlasova,200.0,11.23,22.0,3.23,3.331,0.0006
+151,Multi-headed caudex,Shumshu,346.0,19.42,24.0,1.05,4.362,0.147
+152,Multi-headed caudex,Paramushir,406.0,22.79,32.0,1.95,4.717,0.0254
+153,Multi-headed caudex,Antciferova,21.0,1.18,2.0,0.76,1.085,0.2246
+154,Multi-headed caudex,Makanrushi,107.0,6.01,12.0,2.45,2.443,0.0071
+155,Multi-headed caudex,Onekotan,250.0,14.03,22.0,2.14,3.719,0.0161
+156,Multi-headed caudex,Kharimkotan,137.0,7.69,12.0,1.56,2.762,0.0593
+157,Multi-headed caudex,Chirinkotan,34.0,1.91,2.0,0.07,1.38,0.4736
+158,Multi-headed caudex,Ekarma,102.0,5.73,10.0,1.79,2.386,0.0366
+159,Multi-headed caudex,Shiashkotan,175.0,9.82,16.0,1.98,3.118,0.0238
+160,Multi-headed caudex,Raykoke,54.0,3.03,4.0,0.56,1.738,0.2886
+161,Multi-headed caudex,Matua,171.0,9.6,13.0,1.1,3.083,0.1349
+162,Multi-headed caudex,Rashua,203.0,11.4,12.0,0.18,3.356,0.4285
+163,Multi-headed caudex,Ushishir,119.0,6.68,6.0,0.26,2.576,0.3959
+164,Multi-headed caudex,Ketoy,205.0,11.51,15.0,1.04,3.372,0.1501
+165,Multi-headed caudex,Simushir,246.0,13.81,17.0,0.87,3.689,0.1935
+166,Multi-headed caudex,Broutona,22.0,1.23,4.0,2.49,1.111,0.0064
+167,Multi-headed caudex,Chirpoy,105.0,5.89,13.0,2.94,2.42,0.0017
+168,Multi-headed caudex,Brat Chirpoev,113.0,6.34,9.0,1.06,2.51,0.1449
+169,Multi-headed caudex,Urup,378.0,21.22,24.0,0.61,4.555,0.2707
+170,Multi-headed caudex,Iturup,583.0,32.73,27.0,1.02,5.622,0.1543
+171,Multi-headed caudex,Kunashir,693.0,38.9,22.0,2.77,6.11,0.0028
+172,Multi-headed caudex,Shikotan,508.0,28.52,21.0,1.43,5.26,0.0765
+173,Multi-headed caudex,Polonskogo,103.0,5.78,3.0,1.16,2.397,0.123
+174,Multi-headed caudex,Zeleny,139.0,7.8,5.0,1.01,2.782,0.1569
+175,Multi-headed caudex,Tanfileva,129.0,7.24,5.0,0.84,2.681,0.2016
+176,Multi-headed caudex,Yuriy,161.0,9.04,5.0,1.35,2.992,0.0886
+177,Multi-headed caudex,Demina,45.0,2.53,4.0,0.93,1.587,0.1765
+178,Multi-headed caudex,Storozhevoy,10.0,0.56,0.0,0.75,0.749,0.2268
+179,Multi-headed caudex,Anuchina,84.0,4.72,7.0,1.05,2.166,0.1458
+180,Bulb,Atlasova,200.0,3.12,4.0,0.5,1.763,0.3085
+181,Bulb,Shumshu,346.0,5.4,8.0,1.12,2.316,0.1304
+182,Bulb,Paramushir,406.0,6.33,7.0,0.27,2.508,0.3948
+183,Bulb,Antciferova,21.0,0.33,1.0,1.18,0.572,0.1199
+184,Bulb,Makanrushi,107.0,1.67,3.0,1.03,1.291,0.1511
+185,Bulb,Onekotan,250.0,3.9,4.0,0.05,1.97,0.4794
+186,Bulb,Kharimkotan,137.0,2.14,3.0,0.59,1.46,0.277
+187,Bulb,Chirinkotan,34.0,0.53,0.0,0.73,0.728,0.2332
+188,Bulb,Ekarma,102.0,1.59,2.0,0.33,1.26,0.3726
+189,Bulb,Shiashkotan,175.0,2.73,5.0,1.38,1.65,0.0843
+190,Bulb,Raykoke,54.0,0.84,0.0,0.92,0.917,0.1793
+191,Bulb,Matua,171.0,2.67,4.0,0.82,1.631,0.2067
+192,Bulb,Rashua,203.0,3.17,5.0,1.03,1.776,0.1508
+193,Bulb,Ushishir,119.0,1.86,4.0,1.58,1.361,0.0575
+194,Bulb,Ketoy,205.0,3.2,5.0,1.01,1.785,0.1561
+195,Bulb,Simushir,246.0,3.84,5.0,0.6,1.955,0.2757
+196,Bulb,Broutona,22.0,0.34,0.0,0.59,0.586,0.279
+197,Bulb,Chirpoy,105.0,1.64,4.0,1.85,1.278,0.0323
+198,Bulb,Brat Chirpoev,113.0,1.76,4.0,1.69,1.326,0.0457
+199,Bulb,Urup,378.0,5.89,9.0,1.28,2.42,0.0997
+200,Bulb,Iturup,583.0,9.09,8.0,0.36,3.001,0.3582
+201,Bulb,Kunashir,693.0,10.81,12.0,0.37,3.269,0.3574
+202,Bulb,Shikotan,508.0,7.92,9.0,0.38,2.803,0.3501
+203,Bulb,Polonskogo,103.0,1.61,0.0,1.27,1.266,0.1023
+204,Bulb,Zeleny,139.0,2.17,0.0,1.47,1.471,0.0703
+205,Bulb,Tanfileva,129.0,2.01,3.0,0.7,1.417,0.2427
+206,Bulb,Yuriy,161.0,2.51,1.0,0.95,1.582,0.1699
+207,Bulb,Demina,45.0,0.7,3.0,2.74,0.837,0.003
+208,Bulb,Storozhevoy,10.0,0.16,1.0,2.14,0.395,0.0163
+209,Bulb,Anuchina,84.0,1.31,0.0,1.15,1.144,0.1261
+210,Short rhizome,Atlasova,200.0,80.87,80.0,0.1,8.607,0.4596
+211,Short rhizome,Shumshu,346.0,139.91,139.0,0.08,10.934,0.4668
+212,Short rhizome,Paramushir,406.0,164.17,168.0,0.33,11.669,0.3715
+213,Short rhizome,Antciferova,21.0,8.49,4.0,1.55,2.901,0.0608
+214,Short rhizome,Makanrushi,107.0,43.27,45.0,0.27,6.428,0.3937
+215,Short rhizome,Onekotan,250.0,101.09,103.0,0.2,9.511,0.4205
+216,Short rhizome,Kharimkotan,137.0,55.4,56.0,0.08,7.226,0.4668
+217,Short rhizome,Chirinkotan,34.0,13.75,17.0,0.88,3.681,0.1885
+218,Short rhizome,Ekarma,102.0,41.25,41.0,0.04,6.283,0.4844
+219,Short rhizome,Shiashkotan,175.0,70.76,73.0,0.28,8.097,0.3912
+220,Short rhizome,Raykoke,54.0,21.84,18.0,0.83,4.62,0.2032
+221,Short rhizome,Matua,171.0,69.15,67.0,0.27,8.011,0.3944
+222,Short rhizome,Rashua,203.0,82.09,85.0,0.34,8.665,0.3683
+223,Short rhizome,Ushishir,119.0,48.12,51.0,0.43,6.761,0.335
+224,Short rhizome,Ketoy,205.0,82.9,82.0,0.1,8.704,0.459
+225,Short rhizome,Simushir,246.0,99.47,103.0,0.37,9.444,0.3544
+226,Short rhizome,Broutona,22.0,8.9,6.0,0.98,2.969,0.1647
+227,Short rhizome,Chirpoy,105.0,42.46,36.0,1.01,6.371,0.1553
+228,Short rhizome,Brat Chirpoev,113.0,45.69,48.0,0.35,6.597,0.3633
+229,Short rhizome,Urup,378.0,152.85,150.0,0.25,11.339,0.4008
+230,Short rhizome,Iturup,583.0,235.75,241.0,0.39,13.341,0.3468
+231,Short rhizome,Kunashir,693.0,280.23,283.0,0.2,14.092,0.422
+232,Short rhizome,Shikotan,508.0,205.42,214.0,0.68,12.71,0.2498
+233,Short rhizome,Polonskogo,103.0,41.65,45.0,0.53,6.312,0.2978
+234,Short rhizome,Zeleny,139.0,56.21,63.0,0.93,7.275,0.1752
+235,Short rhizome,Tanfileva,129.0,52.16,63.0,1.54,7.024,0.0614
+236,Short rhizome,Yuriy,161.0,65.1,78.0,1.66,7.791,0.0489
+237,Short rhizome,Demina,45.0,18.2,14.0,0.99,4.225,0.1603
+238,Short rhizome,Storozhevoy,10.0,4.04,2.0,1.02,2.007,0.1542
+239,Short rhizome,Anuchina,84.0,33.97,39.0,0.88,5.724,0.1896
+240,Long rhizome,Atlasova,200.0,71.52,69.0,0.31,8.136,0.3785
+241,Long rhizome,Shumshu,346.0,123.73,134.0,0.99,10.383,0.1612
+242,Long rhizome,Paramushir,406.0,145.18,152.0,0.61,11.103,0.2695
+243,Long rhizome,Antciferova,21.0,7.51,8.0,0.18,2.73,0.4287
+244,Long rhizome,Makanrushi,107.0,38.26,31.0,1.2,6.061,0.1154
+245,Long rhizome,Onekotan,250.0,89.4,100.0,1.18,9.005,0.1195
+246,Long rhizome,Kharimkotan,137.0,48.99,49.0,0.0,6.819,0.4994
+247,Long rhizome,Chirinkotan,34.0,12.16,12.0,0.05,3.465,0.4818
+248,Long rhizome,Ekarma,102.0,36.47,31.0,0.92,5.924,0.1777
+249,Long rhizome,Shiashkotan,175.0,62.58,63.0,0.06,7.649,0.478
+250,Long rhizome,Raykoke,54.0,19.31,21.0,0.39,4.35,0.3488
+251,Long rhizome,Matua,171.0,61.15,57.0,0.55,7.567,0.2918
+252,Long rhizome,Rashua,203.0,72.59,78.0,0.66,8.192,0.2545
+253,Long rhizome,Ushishir,119.0,42.55,38.0,0.71,6.377,0.2376
+254,Long rhizome,Ketoy,205.0,73.31,79.0,0.69,8.229,0.2445
+255,Long rhizome,Simushir,246.0,87.97,90.0,0.23,8.94,0.41
+256,Long rhizome,Broutona,22.0,7.87,6.0,0.67,2.793,0.252
+257,Long rhizome,Chirpoy,105.0,37.55,36.0,0.26,6.007,0.3984
+258,Long rhizome,Brat Chirpoev,113.0,40.41,31.0,1.51,6.222,0.0653
+259,Long rhizome,Urup,378.0,135.17,133.0,0.2,10.779,0.4203
+260,Long rhizome,Iturup,583.0,208.47,209.0,0.04,12.779,0.4836
+261,Long rhizome,Kunashir,693.0,247.81,252.0,0.31,13.564,0.3787
+262,Long rhizome,Shikotan,508.0,181.65,178.0,0.3,12.139,0.3817
+263,Long rhizome,Polonskogo,103.0,36.83,38.0,0.2,5.952,0.4222
+264,Long rhizome,Zeleny,139.0,49.7,55.0,0.77,6.866,0.2203
+265,Long rhizome,Tanfileva,129.0,46.13,36.0,1.53,6.627,0.0632
+266,Long rhizome,Yuriy,161.0,57.57,48.0,1.3,7.357,0.0966
+267,Long rhizome,Demina,45.0,16.09,10.0,1.53,3.978,0.0628
+268,Long rhizome,Storozhevoy,10.0,3.58,3.0,0.31,1.887,0.3801
+269,Long rhizome,Anuchina,84.0,30.04,25.0,0.93,5.394,0.1752
+270,Thin rhizome,Atlasova,200.0,61.95,63.0,0.14,7.613,0.4454
+271,Thin rhizome,Shumshu,346.0,107.18,122.0,1.52,9.759,0.0644
+272,Thin rhizome,Paramushir,406.0,125.77,138.0,1.17,10.456,0.121
+273,Thin rhizome,Antciferova,21.0,6.51,8.0,0.59,2.542,0.2782
+274,Thin rhizome,Makanrushi,107.0,33.15,26.0,1.26,5.657,0.1033
+275,Thin rhizome,Onekotan,250.0,77.44,90.0,1.49,8.439,0.0684
+276,Thin rhizome,Kharimkotan,137.0,42.44,44.0,0.25,6.369,0.4032
+277,Thin rhizome,Chirinkotan,34.0,10.53,11.0,0.14,3.228,0.4424
+278,Thin rhizome,Ekarma,102.0,31.6,29.0,0.47,5.528,0.3193
+279,Thin rhizome,Shiashkotan,175.0,54.21,56.0,0.25,7.152,0.4012
+280,Thin rhizome,Raykoke,54.0,16.73,20.0,0.81,4.054,0.2098
+281,Thin rhizome,Matua,171.0,52.97,51.0,0.28,7.075,0.3903
+282,Thin rhizome,Rashua,203.0,62.88,69.0,0.8,7.666,0.2125
+283,Thin rhizome,Ushishir,119.0,36.86,32.0,0.82,5.954,0.207
+284,Thin rhizome,Ketoy,205.0,63.5,69.0,0.71,7.701,0.2377
+285,Thin rhizome,Simushir,246.0,76.2,79.0,0.33,8.377,0.3693
+286,Thin rhizome,Broutona,22.0,6.81,5.0,0.7,2.601,0.2427
+287,Thin rhizome,Chirpoy,105.0,32.53,30.0,0.45,5.606,0.3261
+288,Thin rhizome,Brat Chirpoev,113.0,35.0,25.0,1.72,5.808,0.0425
+289,Thin rhizome,Urup,378.0,117.09,113.0,0.4,10.141,0.3432
+290,Thin rhizome,Iturup,583.0,180.6,176.0,0.38,12.112,0.3521
+291,Thin rhizome,Kunashir,693.0,214.67,212.0,0.21,12.914,0.4181
+292,Thin rhizome,Shikotan,508.0,157.36,151.0,0.55,11.473,0.2896
+293,Thin rhizome,Polonskogo,103.0,31.91,27.0,0.88,5.554,0.1885
+294,Thin rhizome,Zeleny,139.0,43.06,44.0,0.15,6.413,0.4416
+295,Thin rhizome,Tanfileva,129.0,39.96,26.0,2.26,6.189,0.012
+296,Thin rhizome,Yuriy,161.0,49.87,36.0,2.02,6.877,0.0218
+297,Thin rhizome,Demina,45.0,13.94,9.0,1.33,3.706,0.0913
+298,Thin rhizome,Storozhevoy,10.0,3.1,3.0,0.06,1.757,0.4778
+299,Thin rhizome,Anuchina,84.0,26.02,19.0,1.4,5.032,0.0815
+300,Thick rhizome,Atlasova,200.0,9.98,6.0,1.27,3.143,0.1027
+301,Thick rhizome,Shumshu,346.0,17.26,13.0,1.04,4.118,0.1502
+302,Thick rhizome,Paramushir,406.0,20.26,15.0,1.18,4.453,0.1189
+303,Thick rhizome,Antciferova,21.0,1.05,0.0,1.02,1.023,0.1529
+304,Thick rhizome,Makanrushi,107.0,5.34,5.0,0.15,2.304,0.4415
+305,Thick rhizome,Onekotan,250.0,12.47,10.0,0.71,3.509,0.2404
+306,Thick rhizome,Kharimkotan,137.0,6.84,5.0,0.7,2.605,0.2405
+307,Thick rhizome,Chirinkotan,34.0,1.7,1.0,0.54,1.301,0.2963
+308,Thick rhizome,Ekarma,102.0,5.09,2.0,1.37,2.25,0.0849
+309,Thick rhizome,Shiashkotan,175.0,8.73,7.0,0.59,2.942,0.278
+310,Thick rhizome,Raykoke,54.0,2.69,1.0,1.03,1.639,0.1506
+311,Thick rhizome,Matua,171.0,8.53,6.0,0.87,2.908,0.1919
+312,Thick rhizome,Rashua,203.0,10.13,9.0,0.36,3.166,0.3607
+313,Thick rhizome,Ushishir,119.0,5.94,6.0,0.03,2.429,0.4898
+314,Thick rhizome,Ketoy,205.0,10.23,10.0,0.07,3.181,0.4713
+315,Thick rhizome,Simushir,246.0,12.27,11.0,0.37,3.481,0.3571
+316,Thick rhizome,Broutona,22.0,1.1,1.0,0.09,1.047,0.4628
+317,Thick rhizome,Chirpoy,105.0,5.24,6.0,0.33,2.283,0.3694
+318,Thick rhizome,Brat Chirpoev,113.0,5.64,6.0,0.15,2.368,0.4393
+319,Thick rhizome,Urup,378.0,18.86,21.0,0.5,4.3,0.3094
+320,Thick rhizome,Iturup,583.0,29.09,33.0,0.74,5.311,0.2308
+321,Thick rhizome,Kunashir,693.0,34.58,40.0,0.94,5.774,0.1738
+322,Thick rhizome,Shikotan,508.0,25.35,28.0,0.53,4.968,0.2967
+323,Thick rhizome,Polonskogo,103.0,5.14,11.0,2.59,2.261,0.0048
+324,Thick rhizome,Zeleny,139.0,6.94,11.0,1.55,2.624,0.0607
+325,Thick rhizome,Tanfileva,129.0,6.44,10.0,1.41,2.529,0.0794
+326,Thick rhizome,Yuriy,161.0,8.03,12.0,1.41,2.822,0.0799
+327,Thick rhizome,Demina,45.0,2.25,1.0,0.83,1.497,0.2027
+328,Thick rhizome,Storozhevoy,10.0,0.5,0.0,0.71,0.706,0.2399
+329,Thick rhizome,Anuchina,84.0,4.19,6.0,0.89,2.043,0.188
+330,Rootstock,Atlasova,200.0,1.25,2.0,0.67,1.116,0.2501
+331,Rootstock,Shumshu,346.0,2.16,3.0,0.57,1.467,0.283
+332,Rootstock,Paramushir,406.0,2.53,3.0,0.29,1.589,0.3842
+333,Rootstock,Antciferova,21.0,0.13,0.0,0.36,0.362,0.3587
+334,Rootstock,Makanrushi,107.0,0.67,1.0,0.41,0.817,0.3419
+335,Rootstock,Onekotan,250.0,1.56,3.0,1.15,1.248,0.1241
+336,Rootstock,Kharimkotan,137.0,0.85,1.0,0.16,0.924,0.4374
+337,Rootstock,Chirinkotan,34.0,0.21,0.0,0.46,0.46,0.3226
+338,Rootstock,Ekarma,102.0,0.64,1.0,0.46,0.797,0.3241
+339,Rootstock,Shiashkotan,175.0,1.09,1.0,0.09,1.044,0.4651
+340,Rootstock,Raykoke,54.0,0.34,0.0,0.58,0.58,0.2808
+341,Rootstock,Matua,171.0,1.07,1.0,0.06,1.032,0.4743
+342,Rootstock,Rashua,203.0,1.27,1.0,0.24,1.124,0.4065
+343,Rootstock,Ushishir,119.0,0.74,0.0,0.86,0.861,0.1944
+344,Rootstock,Ketoy,205.0,1.28,1.0,0.25,1.13,0.4026
+345,Rootstock,Simushir,246.0,1.53,1.0,0.43,1.238,0.333
+346,Rootstock,Broutona,22.0,0.14,0.0,0.37,0.37,0.3555
+347,Rootstock,Chirpoy,105.0,0.65,0.0,0.81,0.809,0.2091
+348,Rootstock,Brat Chirpoev,113.0,0.7,1.0,0.35,0.839,0.3625
+349,Rootstock,Urup,378.0,2.36,2.0,0.23,1.534,0.4078
+350,Rootstock,Iturup,583.0,3.64,3.0,0.33,1.903,0.3691
+351,Rootstock,Kunashir,693.0,4.32,5.0,0.33,2.074,0.3719
+352,Rootstock,Shikotan,508.0,3.17,3.0,0.09,1.777,0.4623
+353,Rootstock,Polonskogo,103.0,0.64,0.0,0.8,0.801,0.2113
+354,Rootstock,Zeleny,139.0,0.87,2.0,1.22,0.931,0.1117
+355,Rootstock,Tanfileva,129.0,0.8,0.0,0.9,0.897,0.1848
+356,Rootstock,Yuriy,161.0,1.0,2.0,0.99,1.002,0.16
+357,Rootstock,Demina,45.0,0.28,0.0,0.53,0.53,0.2981
+358,Rootstock,Storozhevoy,10.0,0.06,0.0,0.25,0.25,0.4014
+359,Rootstock,Anuchina,84.0,0.52,0.0,0.72,0.724,0.2345
+360,stolon-forming,Atlasova,200.0,5.61,6.0,0.16,2.362,0.435
+361,stolon-forming,Shumshu,346.0,9.71,8.0,0.55,3.1,0.2905
+362,stolon-forming,Paramushir,406.0,11.4,10.0,0.42,3.356,0.3388
+363,stolon-forming,Antciferova,21.0,0.59,1.0,0.53,0.767,0.2963
+364,stolon-forming,Makanrushi,107.0,3.0,4.0,0.58,1.73,0.2823
+365,stolon-forming,Onekotan,250.0,7.02,6.0,0.39,2.639,0.35
+366,stolon-forming,Kharimkotan,137.0,3.85,4.0,0.08,1.957,0.4685
+367,stolon-forming,Chirinkotan,34.0,0.95,1.0,0.05,0.976,0.4813
+368,stolon-forming,Ekarma,102.0,2.86,3.0,0.08,1.689,0.4676
+369,stolon-forming,Shiashkotan,175.0,4.91,4.0,0.41,2.211,0.34
+370,stolon-forming,Raykoke,54.0,1.52,2.0,0.39,1.23,0.3469
+371,stolon-forming,Matua,171.0,4.8,6.0,0.55,2.185,0.2914
+372,stolon-forming,Rashua,203.0,5.7,7.0,0.55,2.38,0.2921
+373,stolon-forming,Ushishir,119.0,3.34,5.0,0.91,1.824,0.1814
+374,stolon-forming,Ketoy,205.0,5.75,5.0,0.32,2.391,0.3763
+375,stolon-forming,Simushir,246.0,6.9,8.0,0.42,2.618,0.3378
+376,stolon-forming,Broutona,22.0,0.62,0.0,0.79,0.786,0.2159
+377,stolon-forming,Chirpoy,105.0,2.95,3.0,0.03,1.714,0.4877
+378,stolon-forming,Brat Chirpoev,113.0,3.17,4.0,0.47,1.778,0.3206
+379,stolon-forming,Urup,378.0,10.61,12.0,0.43,3.239,0.3338
+380,stolon-forming,Iturup,583.0,16.36,17.0,0.16,4.011,0.4369
+381,stolon-forming,Kunashir,693.0,19.45,21.0,0.36,4.365,0.3613
+382,stolon-forming,Shikotan,508.0,14.26,18.0,1.0,3.748,0.159
+383,stolon-forming,Polonskogo,103.0,2.89,5.0,1.24,1.698,0.1071
+384,stolon-forming,Zeleny,139.0,3.9,5.0,0.56,1.971,0.2886
+385,stolon-forming,Tanfileva,129.0,3.62,5.0,0.73,1.899,0.2338
+386,stolon-forming,Yuriy,161.0,4.52,6.0,0.7,2.121,0.2424
+387,stolon-forming,Demina,45.0,1.26,3.0,1.55,1.123,0.061
+388,stolon-forming,Storozhevoy,10.0,0.28,0.0,0.53,0.53,0.2981
+389,stolon-forming,Anuchina,84.0,2.36,4.0,1.07,1.534,0.1421
+390,Monopodial,Atlasova,200.0,26.4,28.0,0.32,5.067,0.3763
+391,Monopodial,Shumshu,346.0,45.68,44.0,0.25,6.596,0.3996
+392,Monopodial,Paramushir,406.0,53.6,53.0,0.08,7.114,0.4665
+393,Monopodial,Antciferova,21.0,2.77,6.0,1.94,1.663,0.0261
+394,Monopodial,Makanrushi,107.0,14.13,19.0,1.31,3.731,0.0957
+395,Monopodial,Onekotan,250.0,33.0,33.0,0.0,5.646,0.4997
+396,Monopodial,Kharimkotan,137.0,18.09,18.0,0.02,4.213,0.4918
+397,Monopodial,Chirinkotan,34.0,4.49,3.0,0.7,2.114,0.2406
+398,Monopodial,Ekarma,102.0,13.47,17.0,0.97,3.644,0.166
+399,Monopodial,Shiashkotan,175.0,23.1,23.0,0.02,4.748,0.4914
+400,Monopodial,Raykoke,54.0,7.13,7.0,0.05,2.66,0.4807
+401,Monopodial,Matua,171.0,22.57,22.0,0.12,4.695,0.4513
+402,Monopodial,Rashua,203.0,26.8,26.0,0.16,5.104,0.4378
+403,Monopodial,Ushishir,119.0,15.71,17.0,0.33,3.931,0.3714
+404,Monopodial,Ketoy,205.0,27.06,22.0,0.99,5.129,0.1617
+405,Monopodial,Simushir,246.0,32.48,32.0,0.08,5.602,0.4661
+406,Monopodial,Broutona,22.0,2.9,5.0,1.23,1.702,0.1091
+407,Monopodial,Chirpoy,105.0,13.86,13.0,0.23,3.696,0.4078
+408,Monopodial,Brat Chirpoev,113.0,14.92,18.0,0.8,3.832,0.2106
+409,Monopodial,Urup,378.0,49.9,45.0,0.71,6.878,0.238
+410,Monopodial,Iturup,583.0,76.97,78.0,0.12,8.415,0.4511
+411,Monopodial,Kunashir,693.0,91.49,101.0,1.05,9.099,0.1479
+412,Monopodial,Shikotan,508.0,67.06,83.0,2.02,7.899,0.0218
+413,Monopodial,Polonskogo,103.0,13.6,19.0,1.48,3.661,0.07
+414,Monopodial,Zeleny,139.0,18.35,21.0,0.62,4.243,0.2661
+415,Monopodial,Tanfileva,129.0,17.03,22.0,1.22,4.09,0.1122
+416,Monopodial,Yuriy,161.0,21.25,28.0,1.48,4.559,0.0695
+417,Monopodial,Demina,45.0,5.94,12.0,2.49,2.43,0.0063
+418,Monopodial,Storozhevoy,10.0,1.32,3.0,1.46,1.148,0.0717
+419,Monopodial,Anuchina,84.0,11.09,14.0,0.88,3.311,0.1897
+420,Simpodial,Atlasova,200.0,170.06,171.0,0.08,11.832,0.4684
+421,Simpodial,Shumshu,346.0,294.21,301.0,0.48,14.291,0.3173
+422,Simpodial,Paramushir,406.0,345.23,352.0,0.46,14.877,0.3245
+423,Simpodial,Antciferova,21.0,17.86,15.0,0.68,4.186,0.2475
+424,Simpodial,Makanrushi,107.0,90.98,87.0,0.44,9.076,0.3304
+425,Simpodial,Onekotan,250.0,212.58,216.0,0.27,12.869,0.3952
+426,Simpodial,Kharimkotan,137.0,116.49,118.0,0.15,10.119,0.4408
+427,Simpodial,Chirinkotan,34.0,28.91,31.0,0.39,5.295,0.3466
+428,Simpodial,Ekarma,102.0,86.73,84.0,0.31,8.883,0.3792
+429,Simpodial,Shiashkotan,175.0,148.8,151.0,0.2,11.215,0.4224
+430,Simpodial,Raykoke,54.0,45.92,47.0,0.16,6.613,0.4349
+431,Simpodial,Matua,171.0,145.4,149.0,0.32,11.11,0.3731
+432,Simpodial,Rashua,203.0,172.61,177.0,0.37,11.901,0.3562
+433,Simpodial,Ushishir,119.0,101.19,102.0,0.09,9.515,0.466
+434,Simpodial,Ketoy,205.0,174.31,182.0,0.64,11.947,0.26
+435,Simpodial,Simushir,246.0,209.18,212.0,0.22,12.794,0.4127
+436,Simpodial,Broutona,22.0,18.71,16.0,0.63,4.283,0.2637
+437,Simpodial,Chirpoy,105.0,89.28,91.0,0.19,9.0,0.4243
+438,Simpodial,Brat Chirpoev,113.0,96.09,94.0,0.22,9.3,0.4113
+439,Simpodial,Urup,378.0,321.42,330.0,0.59,14.63,0.2787
+440,Simpodial,Iturup,583.0,495.73,499.0,0.21,15.501,0.4165
+441,Simpodial,Kunashir,693.0,589.27,581.0,0.55,15.11,0.2922
+442,Simpodial,Shikotan,508.0,431.96,420.0,0.78,15.427,0.2191
+443,Simpodial,Polonskogo,103.0,87.58,84.0,0.4,8.922,0.344
+444,Simpodial,Zeleny,139.0,118.19,118.0,0.02,10.182,0.4924
+445,Simpodial,Tanfileva,129.0,109.69,107.0,0.27,9.858,0.3925
+446,Simpodial,Yuriy,161.0,136.9,133.0,0.36,10.836,0.3594
+447,Simpodial,Demina,45.0,38.26,33.0,0.87,6.062,0.1926
+448,Simpodial,Storozhevoy,10.0,8.5,7.0,0.52,2.903,0.3023
+449,Simpodial,Anuchina,84.0,71.43,70.0,0.18,8.132,0.4304
+450,Dense tussock,Atlasova,200.0,19.75,17.0,0.63,4.398,0.2659
+451,Dense tussock,Shumshu,346.0,34.17,41.0,1.19,5.741,0.117
+452,Dense tussock,Paramushir,406.0,40.09,53.0,2.08,6.199,0.0187
+453,Dense tussock,Antciferova,21.0,2.07,1.0,0.75,1.439,0.2277
+454,Dense tussock,Makanrushi,107.0,10.57,9.0,0.48,3.233,0.314
+455,Dense tussock,Onekotan,250.0,24.69,32.0,1.49,4.905,0.068
+456,Dense tussock,Kharimkotan,137.0,13.53,13.0,0.14,3.652,0.4424
+457,Dense tussock,Chirinkotan,34.0,3.36,4.0,0.35,1.829,0.3627
+458,Dense tussock,Ekarma,102.0,10.07,8.0,0.66,3.157,0.2557
+459,Dense tussock,Shiashkotan,175.0,17.28,21.0,0.9,4.12,0.1834
+460,Dense tussock,Raykoke,54.0,5.33,2.0,1.45,2.303,0.0739
+461,Dense tussock,Matua,171.0,16.89,16.0,0.22,4.073,0.4138
+462,Dense tussock,Rashua,203.0,20.05,21.0,0.22,4.43,0.4148
+463,Dense tussock,Ushishir,119.0,11.75,7.0,1.39,3.407,0.0816
+464,Dense tussock,Ketoy,205.0,20.24,19.0,0.28,4.452,0.3899
+465,Dense tussock,Simushir,246.0,24.29,24.0,0.06,4.866,0.476
+466,Dense tussock,Broutona,22.0,2.17,1.0,0.8,1.472,0.2129
+467,Dense tussock,Chirpoy,105.0,10.37,6.0,1.36,3.203,0.0863
+468,Dense tussock,Brat Chirpoev,113.0,11.16,5.0,1.85,3.321,0.0318
+469,Dense tussock,Urup,378.0,37.33,32.0,0.89,5.99,0.1869
+470,Dense tussock,Iturup,583.0,57.57,61.0,0.47,7.357,0.3207
+471,Dense tussock,Kunashir,693.0,68.44,51.0,2.19,7.973,0.0144
+472,Dense tussock,Shikotan,508.0,50.17,38.0,1.76,6.896,0.0388
+473,Dense tussock,Polonskogo,103.0,10.17,3.0,2.26,3.172,0.0119
+474,Dense tussock,Zeleny,139.0,13.73,4.0,2.64,3.678,0.0041
+475,Dense tussock,Tanfileva,129.0,12.74,7.0,1.62,3.545,0.0528
+476,Dense tussock,Yuriy,161.0,15.9,10.0,1.49,3.954,0.0679
+477,Dense tussock,Demina,45.0,4.44,1.0,1.64,2.103,0.0508
+478,Dense tussock,Storozhevoy,10.0,0.99,0.0,0.99,0.993,0.16
+479,Dense tussock,Anuchina,84.0,8.3,8.0,0.1,2.868,0.459
+480,Sparse tussock,Atlasova,200.0,13.1,16.0,0.81,3.594,0.2097
+481,Sparse tussock,Shumshu,346.0,22.66,24.0,0.29,4.704,0.3878
+482,Sparse tussock,Paramushir,406.0,26.59,30.0,0.67,5.085,0.2511
+483,Sparse tussock,Antciferova,21.0,1.38,2.0,0.53,1.172,0.297
+484,Sparse tussock,Makanrushi,107.0,7.01,9.0,0.76,2.637,0.225
+485,Sparse tussock,Onekotan,250.0,16.37,19.0,0.66,4.012,0.2562
+486,Sparse tussock,Kharimkotan,137.0,8.97,10.0,0.34,2.981,0.3651
+487,Sparse tussock,Chirinkotan,34.0,2.23,6.0,2.53,1.49,0.0057
+488,Sparse tussock,Ekarma,102.0,6.68,10.0,1.29,2.576,0.0987
+489,Sparse tussock,Shiashkotan,175.0,11.46,15.0,1.05,3.365,0.1464
+490,Sparse tussock,Raykoke,54.0,3.54,7.0,1.85,1.877,0.0325
+491,Sparse tussock,Matua,171.0,11.2,12.0,0.24,3.327,0.4048
+492,Sparse tussock,Rashua,203.0,13.29,12.0,0.36,3.621,0.3604
+493,Sparse tussock,Ushishir,119.0,7.79,10.0,0.79,2.78,0.2137
+494,Sparse tussock,Ketoy,205.0,13.43,15.0,0.43,3.638,0.3326
+495,Sparse tussock,Simushir,246.0,16.11,17.0,0.22,3.98,0.4115
+496,Sparse tussock,Broutona,22.0,1.44,3.0,1.3,1.199,0.0968
+497,Sparse tussock,Chirpoy,105.0,6.88,9.0,0.81,2.613,0.2082
+498,Sparse tussock,Brat Chirpoev,113.0,7.4,10.0,0.96,2.71,0.1687
+499,Sparse tussock,Urup,378.0,24.75,26.0,0.25,4.911,0.3999
+500,Sparse tussock,Iturup,583.0,38.18,34.0,0.69,6.055,0.245
+501,Sparse tussock,Kunashir,693.0,45.38,40.0,0.82,6.576,0.2065
+502,Sparse tussock,Shikotan,508.0,33.27,30.0,0.58,5.667,0.2821
+503,Sparse tussock,Polonskogo,103.0,6.75,5.0,0.67,2.588,0.25
+504,Sparse tussock,Zeleny,139.0,9.1,10.0,0.3,3.003,0.3826
+505,Sparse tussock,Tanfileva,129.0,8.45,8.0,0.15,2.894,0.4385
+506,Sparse tussock,Yuriy,161.0,10.54,8.0,0.79,3.229,0.2154
+507,Sparse tussock,Demina,45.0,2.95,3.0,0.03,1.714,0.4877
+508,Sparse tussock,Storozhevoy,10.0,0.65,0.0,0.81,0.809,0.2091
+509,Sparse tussock,Anuchina,84.0,5.5,7.0,0.64,2.339,0.2608
+510,Cushion,Atlasova,200.0,0.21,0.0,0.46,0.456,0.3242
+511,Cushion,Shumshu,346.0,0.36,1.0,1.07,0.6,0.1428
+512,Cushion,Paramushir,406.0,0.42,1.0,0.89,0.65,0.1868
+513,Cushion,Antciferova,21.0,0.02,0.0,0.15,0.148,0.4413
+514,Cushion,Makanrushi,107.0,0.11,0.0,0.33,0.333,0.3694
+515,Cushion,Onekotan,250.0,0.26,0.0,0.51,0.51,0.3051
+516,Cushion,Kharimkotan,137.0,0.14,0.0,0.38,0.377,0.3529
+517,Cushion,Chirinkotan,34.0,0.04,0.0,0.19,0.188,0.4254
+518,Cushion,Ekarma,102.0,0.11,0.0,0.33,0.326,0.3723
+519,Cushion,Shiashkotan,175.0,0.18,0.0,0.43,0.426,0.3349
+520,Cushion,Raykoke,54.0,0.06,0.0,0.24,0.237,0.4064
+521,Cushion,Matua,171.0,0.18,0.0,0.42,0.422,0.3366
+522,Cushion,Rashua,203.0,0.21,0.0,0.46,0.459,0.323
+523,Cushion,Ushishir,119.0,0.12,0.0,0.35,0.352,0.3625
+524,Cushion,Ketoy,205.0,0.21,0.0,0.46,0.462,0.3222
+525,Cushion,Simushir,246.0,0.26,0.0,0.51,0.506,0.3065
+526,Cushion,Broutona,22.0,0.02,0.0,0.15,0.151,0.4399
+527,Cushion,Chirpoy,105.0,0.11,0.0,0.33,0.33,0.3706
+528,Cushion,Brat Chirpoev,113.0,0.12,0.0,0.34,0.343,0.3659
+529,Cushion,Urup,378.0,0.39,0.0,0.63,0.627,0.2653
+530,Cushion,Iturup,583.0,0.61,0.0,0.78,0.778,0.2181
+531,Cushion,Kunashir,693.0,0.72,0.0,0.85,0.848,0.1979
+532,Cushion,Shikotan,508.0,0.53,0.0,0.73,0.726,0.2336
+533,Cushion,Polonskogo,103.0,0.11,0.0,0.33,0.327,0.3717
+534,Cushion,Zeleny,139.0,0.14,0.0,0.38,0.38,0.3519
+535,Cushion,Tanfileva,129.0,0.13,0.0,0.37,0.366,0.3571
+536,Cushion,Yuriy,161.0,0.17,0.0,0.41,0.409,0.3412
+537,Cushion,Demina,45.0,0.05,0.0,0.22,0.216,0.4144
+538,Cushion,Storozhevoy,10.0,0.01,0.0,0.1,0.102,0.4594
+539,Cushion,Anuchina,84.0,0.09,0.0,0.3,0.295,0.3838
+540,Rosette,Atlasova,200.0,59.46,51.0,1.13,7.469,0.1287
+541,Rosette,Shumshu,346.0,102.86,118.0,1.58,9.585,0.0572
+542,Rosette,Paramushir,406.0,120.7,133.0,1.2,10.274,0.1157
+543,Rosette,Antciferova,21.0,6.24,3.0,1.3,2.491,0.0964
+544,Rosette,Makanrushi,107.0,31.81,19.0,2.31,5.546,0.0104
+545,Rosette,Onekotan,250.0,74.32,81.0,0.81,8.281,0.2101
+546,Rosette,Kharimkotan,137.0,40.73,34.0,1.08,6.245,0.1406
+547,Rosette,Chirinkotan,34.0,10.11,5.0,1.62,3.163,0.0531
+548,Rosette,Ekarma,102.0,30.32,20.0,1.91,5.419,0.0284
+549,Rosette,Shiashkotan,175.0,52.03,45.0,1.0,7.015,0.1582
+550,Rosette,Raykoke,54.0,16.05,11.0,1.27,3.973,0.1017
+551,Rosette,Matua,171.0,50.84,39.0,1.71,6.939,0.044
+552,Rosette,Rashua,203.0,60.35,62.0,0.22,7.521,0.4132
+553,Rosette,Ushishir,119.0,35.38,25.0,1.78,5.838,0.0377
+554,Rosette,Ketoy,205.0,60.95,64.0,0.4,7.555,0.343
+555,Rosette,Simushir,246.0,73.14,70.0,0.38,8.22,0.3515
+556,Rosette,Broutona,22.0,6.54,6.0,0.21,2.549,0.416
+557,Rosette,Chirpoy,105.0,31.22,21.0,1.86,5.496,0.0315
+558,Rosette,Brat Chirpoev,113.0,33.59,25.0,1.51,5.694,0.0656
+559,Rosette,Urup,378.0,112.38,101.0,1.14,9.962,0.1267
+560,Rosette,Iturup,583.0,173.32,163.0,0.87,11.92,0.1932
+561,Rosette,Kunashir,693.0,206.03,191.0,1.18,12.724,0.1188
+562,Rosette,Shikotan,508.0,151.03,133.0,1.6,11.283,0.0551
+563,Rosette,Polonskogo,103.0,30.62,21.0,1.77,5.445,0.0386
+564,Rosette,Zeleny,139.0,41.32,28.0,2.12,6.289,0.0171
+565,Rosette,Tanfileva,129.0,38.35,26.0,2.04,6.068,0.0209
+566,Rosette,Yuriy,161.0,47.86,34.0,2.06,6.744,0.0199
+567,Rosette,Demina,45.0,13.38,7.0,1.76,3.632,0.0395
+568,Rosette,Storozhevoy,10.0,2.97,1.0,1.15,1.722,0.1259
+569,Rosette,Anuchina,84.0,24.97,14.0,2.22,4.932,0.013
+570,Semi-rosette,Atlasova,200.0,53.64,80.0,3.7,7.117,0.0001
+571,Semi-rosette,Shumshu,346.0,92.79,108.0,1.66,9.157,0.0484
+572,Semi-rosette,Paramushir,406.0,108.89,120.0,1.13,9.827,0.129
+573,Semi-rosette,Antciferova,21.0,5.63,12.0,2.69,2.366,0.0036
+574,Semi-rosette,Makanrushi,107.0,28.7,42.0,2.52,5.276,0.0058
+575,Semi-rosette,Onekotan,250.0,67.05,77.0,1.26,7.898,0.1038
+576,Semi-rosette,Kharimkotan,137.0,36.74,49.0,2.06,5.945,0.0196
+577,Semi-rosette,Chirinkotan,34.0,9.12,17.0,2.62,3.005,0.0044
+578,Semi-rosette,Ekarma,102.0,27.36,42.0,2.84,5.155,0.0023
+579,Semi-rosette,Shiashkotan,175.0,46.93,64.0,2.55,6.682,0.0053
+580,Semi-rosette,Raykoke,54.0,14.48,24.0,2.52,3.777,0.0059
+581,Semi-rosette,Matua,171.0,45.86,63.0,2.59,6.609,0.0048
+582,Semi-rosette,Rashua,203.0,54.44,67.0,1.75,7.167,0.0399
+583,Semi-rosette,Ushishir,119.0,31.91,48.0,2.9,5.555,0.0019
+584,Semi-rosette,Ketoy,205.0,54.98,63.0,1.11,7.2,0.1326
+585,Semi-rosette,Simushir,246.0,65.98,79.0,1.66,7.839,0.0483
+586,Semi-rosette,Broutona,22.0,5.9,12.0,2.52,2.422,0.0059
+587,Semi-rosette,Chirpoy,105.0,28.16,44.0,3.03,5.228,0.0012
+588,Semi-rosette,Brat Chirpoev,113.0,30.31,50.0,3.64,5.418,0.0001
+589,Semi-rosette,Urup,378.0,101.38,131.0,3.11,9.523,0.0009
+590,Semi-rosette,Iturup,583.0,156.36,158.0,0.14,11.443,0.4429
+591,Semi-rosette,Kunashir,693.0,185.86,179.0,0.56,12.245,0.2878
+592,Semi-rosette,Shikotan,508.0,136.24,152.0,1.46,10.814,0.0725
+593,Semi-rosette,Polonskogo,103.0,27.62,33.0,1.04,5.18,0.1497
+594,Semi-rosette,Zeleny,139.0,37.28,40.0,0.45,5.986,0.3247
+595,Semi-rosette,Tanfileva,129.0,34.6,46.0,1.97,5.775,0.0242
+596,Semi-rosette,Yuriy,161.0,43.18,46.0,0.44,6.422,0.3302
+597,Semi-rosette,Demina,45.0,12.07,21.0,2.59,3.452,0.0048
+598,Semi-rosette,Storozhevoy,10.0,2.68,4.0,0.81,1.635,0.2101
+599,Semi-rosette,Anuchina,84.0,22.53,34.0,2.45,4.69,0.0072
+600,tussock-forming,Atlasova,200.0,1.25,0.0,1.12,1.116,0.1319
+601,tussock-forming,Shumshu,346.0,2.16,3.0,0.57,1.467,0.283
+602,tussock-forming,Paramushir,406.0,2.53,4.0,0.92,1.589,0.1778
+603,tussock-forming,Antciferova,21.0,0.13,0.0,0.36,0.362,0.3587
+604,tussock-forming,Makanrushi,107.0,0.67,0.0,0.82,0.817,0.2069
+605,tussock-forming,Onekotan,250.0,1.56,2.0,0.35,1.248,0.3619
+606,tussock-forming,Kharimkotan,137.0,0.85,2.0,1.24,0.924,0.1075
+607,tussock-forming,Chirinkotan,34.0,0.21,0.0,0.46,0.46,0.3226
+608,tussock-forming,Ekarma,102.0,0.64,0.0,0.8,0.797,0.2125
+609,tussock-forming,Shiashkotan,175.0,1.09,1.0,0.09,1.044,0.4651
+610,tussock-forming,Raykoke,54.0,0.34,0.0,0.58,0.58,0.2808
+611,tussock-forming,Matua,171.0,1.07,1.0,0.06,1.032,0.4743
+612,tussock-forming,Rashua,203.0,1.27,2.0,0.65,1.124,0.257
+613,tussock-forming,Ushishir,119.0,0.74,2.0,1.46,0.861,0.0721
+614,tussock-forming,Ketoy,205.0,1.28,3.0,1.52,1.13,0.0638
+615,tussock-forming,Simushir,246.0,1.53,2.0,0.38,1.238,0.3534
+616,tussock-forming,Broutona,22.0,0.14,0.0,0.37,0.37,0.3555
+617,tussock-forming,Chirpoy,105.0,0.65,0.0,0.81,0.809,0.2091
+618,tussock-forming,Brat Chirpoev,113.0,0.7,0.0,0.84,0.839,0.2005
+619,tussock-forming,Urup,378.0,2.36,4.0,1.07,1.534,0.1421
+620,tussock-forming,Iturup,583.0,3.64,3.0,0.33,1.903,0.3691
+621,tussock-forming,Kunashir,693.0,4.32,2.0,1.12,2.074,0.1315
+622,tussock-forming,Shikotan,508.0,3.17,4.0,0.47,1.777,0.3199
+623,tussock-forming,Polonskogo,103.0,0.64,0.0,0.8,0.801,0.2113
+624,tussock-forming,Zeleny,139.0,0.87,2.0,1.22,0.931,0.1117
+625,tussock-forming,Tanfileva,129.0,0.8,1.0,0.22,0.897,0.4137
+626,tussock-forming,Yuriy,161.0,1.0,1.0,0.0,1.002,0.4983
+627,tussock-forming,Demina,45.0,0.28,0.0,0.53,0.53,0.2981
+628,tussock-forming,Storozhevoy,10.0,0.06,0.0,0.25,0.25,0.4014
+629,tussock-forming,Anuchina,84.0,0.52,0.0,0.72,0.724,0.2345
+630,Elongated-shoot,Atlasova,200.0,85.45,75.0,1.18,8.824,0.1182
+631,Elongated-shoot,Shumshu,346.0,147.82,129.0,1.68,11.185,0.0462
+632,Elongated-shoot,Paramushir,406.0,173.46,161.0,1.04,11.924,0.1481
+633,Elongated-shoot,Antciferova,21.0,8.97,7.0,0.66,2.981,0.2542
+634,Elongated-shoot,Makanrushi,107.0,45.71,49.0,0.5,6.599,0.3093
+635,Elongated-shoot,Onekotan,250.0,106.81,98.0,0.9,9.744,0.183
+636,Elongated-shoot,Kharimkotan,137.0,58.53,58.0,0.07,7.414,0.4714
+637,Elongated-shoot,Chirinkotan,34.0,14.53,14.0,0.14,3.782,0.4447
+638,Elongated-shoot,Ekarma,102.0,43.58,43.0,0.09,6.45,0.4643
+639,Elongated-shoot,Shiashkotan,175.0,74.77,72.0,0.33,8.304,0.3695
+640,Elongated-shoot,Raykoke,54.0,23.07,21.0,0.44,4.745,0.3313
+641,Elongated-shoot,Matua,171.0,73.06,73.0,0.01,8.216,0.4972
+642,Elongated-shoot,Rashua,203.0,86.73,80.0,0.76,8.883,0.2244
+643,Elongated-shoot,Ushishir,119.0,50.84,48.0,0.41,6.939,0.3411
+644,Elongated-shoot,Ketoy,205.0,87.58,83.0,0.51,8.922,0.3037
+645,Elongated-shoot,Simushir,246.0,105.1,101.0,0.42,9.676,0.3359
+646,Elongated-shoot,Broutona,22.0,9.4,4.0,1.77,3.051,0.0384
+647,Elongated-shoot,Chirpoy,105.0,44.86,42.0,0.44,6.54,0.331
+648,Elongated-shoot,Brat Chirpoev,113.0,48.28,40.0,1.22,6.772,0.1108
+649,Elongated-shoot,Urup,378.0,161.49,151.0,0.91,11.592,0.1826
+650,Elongated-shoot,Iturup,583.0,249.08,263.0,1.02,13.586,0.1527
+651,Elongated-shoot,Kunashir,693.0,296.07,317.0,1.46,14.316,0.0719
+652,Elongated-shoot,Shikotan,508.0,217.04,226.0,0.69,12.964,0.2446
+653,Elongated-shoot,Polonskogo,103.0,44.01,50.0,0.93,6.48,0.1775
+654,Elongated-shoot,Zeleny,139.0,59.39,71.0,1.56,7.465,0.0599
+655,Elongated-shoot,Tanfileva,129.0,55.11,58.0,0.4,7.208,0.3444
+656,Elongated-shoot,Yuriy,161.0,68.78,81.0,1.53,7.992,0.0632
+657,Elongated-shoot,Demina,45.0,19.23,18.0,0.28,4.341,0.3888
+658,Elongated-shoot,Storozhevoy,10.0,4.27,5.0,0.35,2.062,0.3621
+659,Elongated-shoot,Anuchina,84.0,35.89,39.0,0.53,5.878,0.2982
+660,Polycarpic,Atlasova,200.0,181.5,186.0,0.37,12.135,0.3553
+661,Polycarpic,Shumshu,346.0,313.99,317.0,0.21,14.543,0.418
+662,Polycarpic,Paramushir,406.0,368.44,372.0,0.24,15.077,0.4066
+663,Polycarpic,Antciferova,21.0,19.06,16.0,0.71,4.322,0.2397
+664,Polycarpic,Makanrushi,107.0,97.1,98.0,0.1,9.343,0.4617
+665,Polycarpic,Onekotan,250.0,226.87,232.0,0.39,13.167,0.3484
+666,Polycarpic,Kharimkotan,137.0,124.33,126.0,0.16,10.405,0.4361
+667,Polycarpic,Chirinkotan,34.0,30.85,31.0,0.03,5.465,0.4894
+668,Polycarpic,Ekarma,102.0,92.56,90.0,0.28,9.146,0.3896
+669,Polycarpic,Shiashkotan,175.0,158.81,162.0,0.28,11.515,0.3909
+670,Polycarpic,Raykoke,54.0,49.0,48.0,0.15,6.82,0.4415
+671,Polycarpic,Matua,171.0,155.18,159.0,0.33,11.408,0.3689
+672,Polycarpic,Rashua,203.0,184.22,190.0,0.47,12.204,0.3179
+673,Polycarpic,Ushishir,119.0,107.99,109.0,0.1,9.791,0.4589
+674,Polycarpic,Ketoy,205.0,186.03,194.0,0.65,12.25,0.2578
+675,Polycarpic,Simushir,246.0,223.24,228.0,0.36,13.093,0.3581
+676,Polycarpic,Broutona,22.0,19.96,18.0,0.44,4.422,0.3284
+677,Polycarpic,Chirpoy,105.0,95.29,97.0,0.19,9.265,0.4266
+678,Polycarpic,Brat Chirpoev,113.0,102.55,103.0,0.05,9.572,0.4811
+679,Polycarpic,Urup,378.0,343.03,349.0,0.4,14.856,0.3439
+680,Polycarpic,Iturup,583.0,529.06,530.0,0.06,15.43,0.4758
+681,Polycarpic,Kunashir,693.0,628.89,622.0,0.47,14.757,0.3204
+682,Polycarpic,Shikotan,508.0,461.0,453.0,0.52,15.495,0.3028
+683,Polycarpic,Polonskogo,103.0,93.47,92.0,0.16,9.186,0.4364
+684,Polycarpic,Zeleny,139.0,126.14,127.0,0.08,10.469,0.4673
+685,Polycarpic,Tanfileva,129.0,117.07,117.0,0.01,10.14,0.4974
+686,Polycarpic,Yuriy,161.0,146.1,147.0,0.08,11.132,0.468
+687,Polycarpic,Demina,45.0,40.84,35.0,0.93,6.253,0.1753
+688,Polycarpic,Storozhevoy,10.0,9.07,7.0,0.69,2.998,0.2445
+689,Polycarpic,Anuchina,84.0,76.23,74.0,0.27,8.378,0.3951
+690,Monocarpic,Atlasova,200.0,17.26,14.0,0.79,4.117,0.2145
+691,Monocarpic,Shumshu,346.0,29.85,26.0,0.72,5.378,0.2369
+692,Monocarpic,Paramushir,406.0,35.03,32.0,0.52,5.81,0.3011
+693,Monocarpic,Antciferova,21.0,1.81,4.0,1.63,1.345,0.0519
+694,Monocarpic,Makanrushi,107.0,9.23,9.0,0.08,3.024,0.4694
+695,Monocarpic,Onekotan,250.0,21.57,17.0,1.0,4.592,0.1598
+696,Monocarpic,Kharimkotan,137.0,11.82,11.0,0.24,3.417,0.4052
+697,Monocarpic,Chirinkotan,34.0,2.93,3.0,0.04,1.71,0.4845
+698,Monocarpic,Ekarma,102.0,8.8,12.0,1.08,2.953,0.1393
+699,Monocarpic,Shiashkotan,175.0,15.1,12.0,0.8,3.855,0.2108
+700,Monocarpic,Raykoke,54.0,4.66,5.0,0.16,2.153,0.4371
+701,Monocarpic,Matua,171.0,14.75,13.0,0.46,3.811,0.3227
+702,Monocarpic,Rashua,203.0,17.51,12.0,1.33,4.147,0.0918
+703,Monocarpic,Ushishir,119.0,10.27,10.0,0.08,3.187,0.4666
+704,Monocarpic,Ketoy,205.0,17.69,11.0,1.6,4.167,0.0543
+705,Monocarpic,Simushir,246.0,21.22,17.0,0.93,4.556,0.1769
+706,Monocarpic,Broutona,22.0,1.9,3.0,0.8,1.376,0.2117
+707,Monocarpic,Chirpoy,105.0,9.06,7.0,0.69,2.996,0.2459
+708,Monocarpic,Brat Chirpoev,113.0,9.75,10.0,0.08,3.107,0.4679
+709,Monocarpic,Urup,378.0,32.61,28.0,0.82,5.613,0.2056
+710,Monocarpic,Iturup,583.0,50.3,51.0,0.1,6.904,0.4596
+711,Monocarpic,Kunashir,693.0,59.79,69.0,1.23,7.488,0.1094
+712,Monocarpic,Shikotan,508.0,43.83,55.0,1.73,6.468,0.0421
+713,Monocarpic,Polonskogo,103.0,8.89,12.0,1.05,2.967,0.147
+714,Monocarpic,Zeleny,139.0,11.99,13.0,0.29,3.441,0.3849
+715,Monocarpic,Tanfileva,129.0,11.13,13.0,0.56,3.317,0.2864
+716,Monocarpic,Yuriy,161.0,13.89,14.0,0.03,3.7,0.4882
+717,Monocarpic,Demina,45.0,3.88,9.0,2.6,1.966,0.0046
+718,Monocarpic,Storozhevoy,10.0,0.86,3.0,2.3,0.928,0.0107
+719,Monocarpic,Anuchina,84.0,7.25,9.0,0.65,2.682,0.2567
+720,Upright shoot,Atlasova,200.0,170.06,169.0,0.09,11.832,0.4642
+721,Upright shoot,Shumshu,346.0,294.21,293.0,0.08,14.291,0.4663
+722,Upright shoot,Paramushir,406.0,345.23,345.0,0.02,14.877,0.4939
+723,Upright shoot,Antciferova,21.0,17.86,17.0,0.2,4.186,0.4189
+724,Upright shoot,Makanrushi,107.0,90.98,89.0,0.22,9.076,0.4135
+725,Upright shoot,Onekotan,250.0,212.58,210.0,0.2,12.869,0.4206
+726,Upright shoot,Kharimkotan,137.0,116.49,116.0,0.05,10.119,0.4806
+727,Upright shoot,Chirinkotan,34.0,28.91,29.0,0.02,5.295,0.4933
+728,Upright shoot,Ekarma,102.0,86.73,89.0,0.26,8.883,0.3992
+729,Upright shoot,Shiashkotan,175.0,148.8,150.0,0.11,11.215,0.4576
+730,Upright shoot,Raykoke,54.0,45.92,44.0,0.29,6.613,0.386
+731,Upright shoot,Matua,171.0,145.4,147.0,0.14,11.11,0.4429
+732,Upright shoot,Rashua,203.0,172.61,176.0,0.28,11.901,0.388
+733,Upright shoot,Ushishir,119.0,101.19,106.0,0.51,9.515,0.3065
+734,Upright shoot,Ketoy,205.0,174.31,178.0,0.31,11.947,0.3788
+735,Upright shoot,Simushir,246.0,209.18,215.0,0.46,12.794,0.3245
+736,Upright shoot,Broutona,22.0,18.71,17.0,0.4,4.283,0.3451
+737,Upright shoot,Chirpoy,105.0,89.28,91.0,0.19,9.0,0.4243
+738,Upright shoot,Brat Chirpoev,113.0,96.09,102.0,0.64,9.3,0.2624
+739,Upright shoot,Urup,378.0,321.42,327.0,0.38,14.63,0.3514
+740,Upright shoot,Iturup,583.0,495.73,492.0,0.24,15.501,0.4049
+741,Upright shoot,Kunashir,693.0,589.27,599.0,0.64,15.11,0.2597
+742,Upright shoot,Shikotan,508.0,431.96,443.0,0.72,15.427,0.2371
+743,Upright shoot,Polonskogo,103.0,87.58,95.0,0.83,8.922,0.2029
+744,Upright shoot,Zeleny,139.0,118.19,126.0,0.77,10.182,0.2216
+745,Upright shoot,Tanfileva,129.0,109.69,119.0,0.94,9.858,0.1725
+746,Upright shoot,Yuriy,161.0,136.9,147.0,0.93,10.836,0.1757
+747,Upright shoot,Demina,45.0,38.26,41.0,0.45,6.062,0.3259
+748,Upright shoot,Storozhevoy,10.0,8.5,10.0,0.52,2.903,0.3031
+749,Upright shoot,Anuchina,84.0,71.43,73.0,0.19,8.132,0.4233
+750,Lodging shoot,Atlasova,200.0,3.95,5.0,0.53,1.983,0.2983
+751,Lodging shoot,Shumshu,346.0,6.83,8.0,0.45,2.605,0.3272
+752,Lodging shoot,Paramushir,406.0,8.02,9.0,0.35,2.82,0.3639
+753,Lodging shoot,Antciferova,21.0,0.41,0.0,0.64,0.644,0.2597
+754,Lodging shoot,Makanrushi,107.0,2.11,4.0,1.3,1.452,0.0969
+755,Lodging shoot,Onekotan,250.0,4.94,5.0,0.03,2.216,0.4888
+756,Lodging shoot,Kharimkotan,137.0,2.71,4.0,0.79,1.643,0.2154
+757,Lodging shoot,Chirinkotan,34.0,0.67,1.0,0.4,0.819,0.3442
+758,Lodging shoot,Ekarma,102.0,2.01,2.0,0.01,1.418,0.4959
+759,Lodging shoot,Shiashkotan,175.0,3.46,4.0,0.29,1.856,0.3848
+760,Lodging shoot,Raykoke,54.0,1.07,1.0,0.06,1.032,0.4743
+761,Lodging shoot,Matua,171.0,3.38,5.0,0.88,1.835,0.1882
+762,Lodging shoot,Rashua,203.0,4.01,6.0,1.0,1.998,0.1596
+763,Lodging shoot,Ushishir,119.0,2.35,5.0,1.73,1.531,0.0418
+764,Lodging shoot,Ketoy,205.0,4.05,5.0,0.47,2.008,0.3179
+765,Lodging shoot,Simushir,246.0,4.86,4.0,0.39,2.199,0.3481
+766,Lodging shoot,Broutona,22.0,0.43,0.0,0.66,0.659,0.2548
+767,Lodging shoot,Chirpoy,105.0,2.07,2.0,0.05,1.439,0.4795
+768,Lodging shoot,Brat Chirpoev,113.0,2.23,0.0,1.5,1.492,0.0674
+769,Lodging shoot,Urup,378.0,7.47,6.0,0.54,2.722,0.2951
+770,Lodging shoot,Iturup,583.0,11.51,7.0,1.34,3.373,0.0904
+771,Lodging shoot,Kunashir,693.0,13.69,13.0,0.19,3.673,0.4258
+772,Lodging shoot,Shikotan,508.0,10.03,11.0,0.31,3.151,0.3795
+773,Lodging shoot,Polonskogo,103.0,2.03,1.0,0.73,1.425,0.2339
+774,Lodging shoot,Zeleny,139.0,2.75,3.0,0.15,1.655,0.4388
+775,Lodging shoot,Tanfileva,129.0,2.55,2.0,0.34,1.594,0.3656
+776,Lodging shoot,Yuriy,161.0,3.18,2.0,0.66,1.78,0.2538
+777,Lodging shoot,Demina,45.0,0.89,0.0,0.94,0.942,0.1728
+778,Lodging shoot,Storozhevoy,10.0,0.2,0.0,0.44,0.444,0.3284
+779,Lodging shoot,Anuchina,84.0,1.66,3.0,1.04,1.287,0.1487
+780,Half-rising shoot,Atlasova,200.0,9.36,16.0,2.18,3.044,0.0145
+781,Half-rising shoot,Shumshu,346.0,16.19,22.0,1.46,3.989,0.0725
+782,Half-rising shoot,Paramushir,406.0,18.99,25.0,1.39,4.315,0.0819
+783,Half-rising shoot,Antciferova,21.0,0.98,4.0,3.05,0.991,0.0012
+784,Half-rising shoot,Makanrushi,107.0,5.01,10.0,2.24,2.231,0.0126
+785,Half-rising shoot,Onekotan,250.0,11.69,18.0,1.86,3.399,0.0318
+786,Half-rising shoot,Kharimkotan,137.0,6.41,12.0,2.22,2.523,0.0133
+787,Half-rising shoot,Chirinkotan,34.0,1.59,4.0,1.91,1.26,0.0279
+788,Half-rising shoot,Ekarma,102.0,4.77,9.0,1.94,2.179,0.0261
+789,Half-rising shoot,Shiashkotan,175.0,8.19,16.0,2.74,2.849,0.003
+790,Half-rising shoot,Raykoke,54.0,2.53,7.0,2.82,1.587,0.0024
+791,Half-rising shoot,Matua,171.0,8.0,11.0,1.07,2.816,0.1433
+792,Half-rising shoot,Rashua,203.0,9.5,14.0,1.47,3.066,0.0709
+793,Half-rising shoot,Ushishir,119.0,5.57,5.0,0.24,2.353,0.4048
+794,Half-rising shoot,Ketoy,205.0,9.59,16.0,2.08,3.081,0.0187
+795,Half-rising shoot,Simushir,246.0,11.51,19.0,2.22,3.372,0.0131
+796,Half-rising shoot,Broutona,22.0,1.03,5.0,3.92,1.014,0.0
+797,Half-rising shoot,Chirpoy,105.0,4.91,10.0,2.3,2.211,0.0107
+798,Half-rising shoot,Brat Chirpoev,113.0,5.29,8.0,1.18,2.293,0.1183
+799,Half-rising shoot,Urup,378.0,17.68,23.0,1.28,4.166,0.1009
+800,Half-rising shoot,Iturup,583.0,27.27,29.0,0.34,5.148,0.3685
+801,Half-rising shoot,Kunashir,693.0,32.42,26.0,1.15,5.597,0.1258
+802,Half-rising shoot,Shikotan,508.0,23.76,22.0,0.37,4.814,0.3571
+803,Half-rising shoot,Polonskogo,103.0,4.82,4.0,0.37,2.19,0.3543
+804,Half-rising shoot,Zeleny,139.0,6.5,6.0,0.2,2.541,0.4217
+805,Half-rising shoot,Tanfileva,129.0,6.03,5.0,0.42,2.449,0.3364
+806,Half-rising shoot,Yuriy,161.0,7.53,6.0,0.56,2.734,0.2877
+807,Half-rising shoot,Demina,45.0,2.1,3.0,0.62,1.449,0.2684
+808,Half-rising shoot,Storozhevoy,10.0,0.47,0.0,0.68,0.684,0.247
+809,Half-rising shoot,Anuchina,84.0,3.93,5.0,0.54,1.978,0.2942
+810,Procumbent shoot,Atlasova,200.0,2.7,4.0,0.79,1.642,0.2147
+811,Procumbent shoot,Shumshu,346.0,4.68,6.0,0.61,2.157,0.2696
+812,Procumbent shoot,Paramushir,406.0,5.49,6.0,0.22,2.336,0.413
+813,Procumbent shoot,Antciferova,21.0,0.28,0.0,0.53,0.533,0.2971
+814,Procumbent shoot,Makanrushi,107.0,1.45,2.0,0.46,1.202,0.3224
+815,Procumbent shoot,Onekotan,250.0,3.38,4.0,0.34,1.835,0.3674
+816,Procumbent shoot,Kharimkotan,137.0,1.85,2.0,0.11,1.359,0.4565
+817,Procumbent shoot,Chirinkotan,34.0,0.46,0.0,0.68,0.678,0.2489
+818,Procumbent shoot,Ekarma,102.0,1.38,1.0,0.32,1.173,0.3735
+819,Procumbent shoot,Shiashkotan,175.0,2.36,3.0,0.41,1.536,0.3396
+820,Procumbent shoot,Raykoke,54.0,0.73,2.0,1.49,0.854,0.0684
+821,Procumbent shoot,Matua,171.0,2.31,3.0,0.45,1.518,0.3249
+822,Procumbent shoot,Rashua,203.0,2.74,3.0,0.16,1.654,0.4383
+823,Procumbent shoot,Ushishir,119.0,1.61,2.0,0.31,1.267,0.3785
+824,Procumbent shoot,Ketoy,205.0,2.77,3.0,0.14,1.662,0.445
+825,Procumbent shoot,Simushir,246.0,3.32,2.0,0.73,1.82,0.2334
+826,Procumbent shoot,Broutona,22.0,0.3,0.0,0.55,0.545,0.2928
+827,Procumbent shoot,Chirpoy,105.0,1.42,1.0,0.35,1.19,0.3624
+828,Procumbent shoot,Brat Chirpoev,113.0,1.53,1.0,0.43,1.235,0.3348
+829,Procumbent shoot,Urup,378.0,5.11,3.0,0.94,2.254,0.1748
+830,Procumbent shoot,Iturup,583.0,7.88,8.0,0.04,2.795,0.4826
+831,Procumbent shoot,Kunashir,693.0,9.36,6.0,1.1,3.045,0.1346
+832,Procumbent shoot,Shikotan,508.0,6.86,5.0,0.71,2.611,0.2375
+833,Procumbent shoot,Polonskogo,103.0,1.39,0.0,1.18,1.179,0.1189
+834,Procumbent shoot,Zeleny,139.0,1.88,1.0,0.64,1.369,0.2606
+835,Procumbent shoot,Tanfileva,129.0,1.74,1.0,0.56,1.319,0.2866
+836,Procumbent shoot,Yuriy,161.0,2.18,0.0,1.48,1.473,0.0699
+837,Procumbent shoot,Demina,45.0,0.61,1.0,0.5,0.78,0.3076
+838,Procumbent shoot,Storozhevoy,10.0,0.14,0.0,0.37,0.368,0.3566
+839,Procumbent shoot,Anuchina,84.0,1.14,1.0,0.13,1.065,0.4495
+840,Repent shoot,Atlasova,200.0,2.7,5.0,1.4,1.642,0.0809
+841,Repent shoot,Shumshu,346.0,4.68,8.0,1.54,2.157,0.0616
+842,Repent shoot,Paramushir,406.0,5.49,8.0,1.08,2.336,0.1409
+843,Repent shoot,Antciferova,21.0,0.28,0.0,0.53,0.533,0.2971
+844,Repent shoot,Makanrushi,107.0,1.45,1.0,0.37,1.202,0.3553
+845,Repent shoot,Onekotan,250.0,3.38,6.0,1.43,1.835,0.0765
+846,Repent shoot,Kharimkotan,137.0,1.85,2.0,0.11,1.359,0.4565
+847,Repent shoot,Chirinkotan,34.0,0.46,0.0,0.68,0.678,0.2489
+848,Repent shoot,Ekarma,102.0,1.38,1.0,0.32,1.173,0.3735
+849,Repent shoot,Shiashkotan,175.0,2.36,1.0,0.89,1.536,0.1871
+850,Repent shoot,Raykoke,54.0,0.73,0.0,0.85,0.854,0.1964
+851,Repent shoot,Matua,171.0,2.31,2.0,0.2,1.518,0.4189
+852,Repent shoot,Rashua,203.0,2.74,1.0,1.05,1.654,0.1459
+853,Repent shoot,Ushishir,119.0,1.61,1.0,0.48,1.267,0.3156
+854,Repent shoot,Ketoy,205.0,2.77,1.0,1.07,1.662,0.1434
+855,Repent shoot,Simushir,246.0,3.32,3.0,0.18,1.82,0.4293
+856,Repent shoot,Broutona,22.0,0.3,0.0,0.55,0.545,0.2928
+857,Repent shoot,Chirpoy,105.0,1.42,1.0,0.35,1.19,0.3624
+858,Repent shoot,Brat Chirpoev,113.0,1.53,0.0,1.24,1.235,0.1081
+859,Repent shoot,Urup,378.0,5.11,8.0,1.28,2.254,0.0998
+860,Repent shoot,Iturup,583.0,7.88,10.0,0.76,2.795,0.2239
+861,Repent shoot,Kunashir,693.0,9.36,11.0,0.54,3.045,0.2957
+862,Repent shoot,Shikotan,508.0,6.86,8.0,0.43,2.611,0.3319
+863,Repent shoot,Polonskogo,103.0,1.39,1.0,0.33,1.179,0.3698
+864,Repent shoot,Zeleny,139.0,1.88,1.0,0.64,1.369,0.2606
+865,Repent shoot,Tanfileva,129.0,1.74,2.0,0.19,1.319,0.4228
+866,Repent shoot,Yuriy,161.0,2.18,3.0,0.56,1.473,0.2879
+867,Repent shoot,Demina,45.0,0.61,0.0,0.78,0.78,0.2177
+868,Repent shoot,Storozhevoy,10.0,0.14,0.0,0.37,0.368,0.3566
+869,Repent shoot,Anuchina,84.0,1.14,1.0,0.13,1.065,0.4495
+870,Climbing shoot,Atlasova,200.0,0.0,0.0,,0.0,
+871,Climbing shoot,Shumshu,346.0,0.0,0.0,,0.0,
+872,Climbing shoot,Paramushir,406.0,0.0,0.0,,0.0,
+873,Climbing shoot,Antciferova,21.0,0.0,0.0,,0.0,
+874,Climbing shoot,Makanrushi,107.0,0.0,0.0,,0.0,
+875,Climbing shoot,Onekotan,250.0,0.0,0.0,,0.0,
+876,Climbing shoot,Kharimkotan,137.0,0.0,0.0,,0.0,
+877,Climbing shoot,Chirinkotan,34.0,0.0,0.0,,0.0,
+878,Climbing shoot,Ekarma,102.0,0.0,0.0,,0.0,
+879,Climbing shoot,Shiashkotan,175.0,0.0,0.0,,0.0,
+880,Climbing shoot,Raykoke,54.0,0.0,0.0,,0.0,
+881,Climbing shoot,Matua,171.0,0.0,0.0,,0.0,
+882,Climbing shoot,Rashua,203.0,0.0,0.0,,0.0,
+883,Climbing shoot,Ushishir,119.0,0.0,0.0,,0.0,
+884,Climbing shoot,Ketoy,205.0,0.0,0.0,,0.0,
+885,Climbing shoot,Simushir,246.0,0.0,0.0,,0.0,
+886,Climbing shoot,Broutona,22.0,0.0,0.0,,0.0,
+887,Climbing shoot,Chirpoy,105.0,0.0,0.0,,0.0,
+888,Climbing shoot,Brat Chirpoev,113.0,0.0,0.0,,0.0,
+889,Climbing shoot,Urup,378.0,0.0,0.0,,0.0,
+890,Climbing shoot,Iturup,583.0,0.0,0.0,,0.0,
+891,Climbing shoot,Kunashir,693.0,0.0,0.0,,0.0,
+892,Climbing shoot,Shikotan,508.0,0.0,0.0,,0.0,
+893,Climbing shoot,Polonskogo,103.0,0.0,0.0,,0.0,
+894,Climbing shoot,Zeleny,139.0,0.0,0.0,,0.0,
+895,Climbing shoot,Tanfileva,129.0,0.0,0.0,,0.0,
+896,Climbing shoot,Yuriy,161.0,0.0,0.0,,0.0,
+897,Climbing shoot,Demina,45.0,0.0,0.0,,0.0,
+898,Climbing shoot,Storozhevoy,10.0,0.0,0.0,,0.0,
+899,Climbing shoot,Anuchina,84.0,0.0,0.0,,0.0,
+900,Submerged shoot,Atlasova,200.0,5.41,0.0,2.33,2.318,0.0099
+901,Submerged shoot,Shumshu,346.0,9.35,11.0,0.54,3.043,0.294
+902,Submerged shoot,Paramushir,406.0,10.97,14.0,0.92,3.294,0.179
+903,Submerged shoot,Antciferova,21.0,0.57,0.0,0.75,0.753,0.2255
+904,Submerged shoot,Makanrushi,107.0,2.89,1.0,1.11,1.698,0.1326
+905,Submerged shoot,Onekotan,250.0,6.76,6.0,0.29,2.59,0.3851
+906,Submerged shoot,Kharimkotan,137.0,3.7,1.0,1.41,1.921,0.0797
+907,Submerged shoot,Chirinkotan,34.0,0.92,0.0,0.96,0.958,0.1688
+908,Submerged shoot,Ekarma,102.0,2.76,0.0,1.66,1.658,0.0482
+909,Submerged shoot,Shiashkotan,175.0,4.73,1.0,1.72,2.169,0.0428
+910,Submerged shoot,Raykoke,54.0,1.46,0.0,1.21,1.207,0.1133
+911,Submerged shoot,Matua,171.0,4.62,2.0,1.22,2.145,0.1108
+912,Submerged shoot,Rashua,203.0,5.49,3.0,1.06,2.336,0.1435
+913,Submerged shoot,Ushishir,119.0,3.22,0.0,1.8,1.79,0.0362
+914,Submerged shoot,Ketoy,205.0,5.54,2.0,1.51,2.347,0.0657
+915,Submerged shoot,Simushir,246.0,6.65,3.0,1.42,2.57,0.0778
+916,Submerged shoot,Broutona,22.0,0.59,0.0,0.77,0.771,0.2203
+917,Submerged shoot,Chirpoy,105.0,2.84,0.0,1.69,1.682,0.0458
+918,Submerged shoot,Brat Chirpoev,113.0,3.05,2.0,0.6,1.745,0.2729
+919,Submerged shoot,Urup,378.0,10.22,9.0,0.38,3.179,0.351
+920,Submerged shoot,Iturup,583.0,15.76,20.0,1.08,3.937,0.1406
+921,Submerged shoot,Kunashir,693.0,18.73,20.0,0.3,4.285,0.3835
+922,Submerged shoot,Shikotan,508.0,13.73,15.0,0.35,3.679,0.3649
+923,Submerged shoot,Polonskogo,103.0,2.78,1.0,1.07,1.666,0.1422
+924,Submerged shoot,Zeleny,139.0,3.76,1.0,1.43,1.934,0.0771
+925,Submerged shoot,Tanfileva,129.0,3.49,1.0,1.33,1.864,0.0911
+926,Submerged shoot,Yuriy,161.0,4.35,2.0,1.13,2.081,0.1293
+927,Submerged shoot,Demina,45.0,1.22,0.0,1.1,1.102,0.1349
+928,Submerged shoot,Storozhevoy,10.0,0.27,0.0,0.52,0.52,0.3015
+929,Submerged shoot,Anuchina,84.0,2.27,1.0,0.84,1.505,0.1993
+930,Float shoot,Atlasova,200.0,3.33,0.0,1.83,1.821,0.0338
+931,Float shoot,Shumshu,346.0,5.75,1.0,1.99,2.392,0.0234
+932,Float shoot,Paramushir,406.0,6.75,2.0,1.84,2.589,0.0332
+933,Float shoot,Antciferova,21.0,0.35,0.0,0.59,0.591,0.2772
+934,Float shoot,Makanrushi,107.0,1.78,0.0,1.34,1.333,0.0909
+935,Float shoot,Onekotan,250.0,4.16,1.0,1.55,2.035,0.0603
+936,Float shoot,Kharimkotan,137.0,2.28,0.0,1.51,1.508,0.0654
+937,Float shoot,Chirinkotan,34.0,0.57,0.0,0.75,0.752,0.226
+938,Float shoot,Ekarma,102.0,1.7,0.0,1.3,1.301,0.0962
+939,Float shoot,Shiashkotan,175.0,2.91,0.0,1.71,1.703,0.0438
+940,Float shoot,Raykoke,54.0,0.9,0.0,0.95,0.947,0.1715
+941,Float shoot,Matua,171.0,2.84,0.0,1.69,1.684,0.0456
+942,Float shoot,Rashua,203.0,3.38,0.0,1.84,1.834,0.0328
+943,Float shoot,Ushishir,119.0,1.98,0.0,1.41,1.405,0.0795
+944,Float shoot,Ketoy,205.0,3.41,0.0,1.85,1.843,0.0322
+945,Float shoot,Simushir,246.0,4.09,0.0,2.03,2.018,0.0213
+946,Float shoot,Broutona,22.0,0.37,0.0,0.61,0.605,0.2726
+947,Float shoot,Chirpoy,105.0,1.75,0.0,1.32,1.32,0.093
+948,Float shoot,Brat Chirpoev,113.0,1.88,0.0,1.37,1.37,0.085
+949,Float shoot,Urup,378.0,6.29,2.0,1.72,2.499,0.0431
+950,Float shoot,Iturup,583.0,9.7,13.0,1.07,3.098,0.1431
+951,Float shoot,Kunashir,693.0,11.53,11.0,0.16,3.375,0.4381
+952,Float shoot,Shikotan,508.0,8.45,2.0,2.23,2.894,0.0129
+953,Float shoot,Polonskogo,103.0,1.71,1.0,0.55,1.308,0.2928
+954,Float shoot,Zeleny,139.0,2.31,1.0,0.86,1.519,0.1938
+955,Float shoot,Tanfileva,129.0,2.15,0.0,1.47,1.463,0.0713
+956,Float shoot,Yuriy,161.0,2.68,2.0,0.41,1.634,0.3392
+957,Float shoot,Demina,45.0,0.75,0.0,0.87,0.865,0.1934
+958,Float shoot,Storozhevoy,10.0,0.17,0.0,0.41,0.408,0.3417
+959,Float shoot,Anuchina,84.0,1.4,0.0,1.18,1.181,0.1184
+960,Anchoring shoot,Atlasova,200.0,0.0,0.0,,0.0,
+961,Anchoring shoot,Shumshu,346.0,0.0,0.0,,0.0,
+962,Anchoring shoot,Paramushir,406.0,0.0,0.0,,0.0,
+963,Anchoring shoot,Antciferova,21.0,0.0,0.0,,0.0,
+964,Anchoring shoot,Makanrushi,107.0,0.0,0.0,,0.0,
+965,Anchoring shoot,Onekotan,250.0,0.0,0.0,,0.0,
+966,Anchoring shoot,Kharimkotan,137.0,0.0,0.0,,0.0,
+967,Anchoring shoot,Chirinkotan,34.0,0.0,0.0,,0.0,
+968,Anchoring shoot,Ekarma,102.0,0.0,0.0,,0.0,
+969,Anchoring shoot,Shiashkotan,175.0,0.0,0.0,,0.0,
+970,Anchoring shoot,Raykoke,54.0,0.0,0.0,,0.0,
+971,Anchoring shoot,Matua,171.0,0.0,0.0,,0.0,
+972,Anchoring shoot,Rashua,203.0,0.0,0.0,,0.0,
+973,Anchoring shoot,Ushishir,119.0,0.0,0.0,,0.0,
+974,Anchoring shoot,Ketoy,205.0,0.0,0.0,,0.0,
+975,Anchoring shoot,Simushir,246.0,0.0,0.0,,0.0,
+976,Anchoring shoot,Broutona,22.0,0.0,0.0,,0.0,
+977,Anchoring shoot,Chirpoy,105.0,0.0,0.0,,0.0,
+978,Anchoring shoot,Brat Chirpoev,113.0,0.0,0.0,,0.0,
+979,Anchoring shoot,Urup,378.0,0.0,0.0,,0.0,
+980,Anchoring shoot,Iturup,583.0,0.0,0.0,,0.0,
+981,Anchoring shoot,Kunashir,693.0,0.0,0.0,,0.0,
+982,Anchoring shoot,Shikotan,508.0,0.0,0.0,,0.0,
+983,Anchoring shoot,Polonskogo,103.0,0.0,0.0,,0.0,
+984,Anchoring shoot,Zeleny,139.0,0.0,0.0,,0.0,
+985,Anchoring shoot,Tanfileva,129.0,0.0,0.0,,0.0,
+986,Anchoring shoot,Yuriy,161.0,0.0,0.0,,0.0,
+987,Anchoring shoot,Demina,45.0,0.0,0.0,,0.0,
+988,Anchoring shoot,Storozhevoy,10.0,0.0,0.0,,0.0,
+989,Anchoring shoot,Anuchina,84.0,0.0,0.0,,0.0,
